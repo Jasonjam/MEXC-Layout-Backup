@@ -2,6 +2,10 @@
 
 MEXC 合約交易頁面 Layout / TradingView指標 的備份與還原 Tampermonkey 腳本。
 
+## 安裝
+
+[安裝 MEXC Backup](https://raw.githubusercontent.com/你的帳號/mexc-backup/main/mexc-backup.user.js)
+
 ## 功能
 
 - 備份 / 還原 MEXC Layout & TradingView 圖表設定與指標
