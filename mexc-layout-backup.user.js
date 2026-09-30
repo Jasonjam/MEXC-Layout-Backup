@@ -2,8 +2,9 @@
 // @name         MEXC Layout Backup
 // @namespace    mexc-layout-backup
 // @version      0.2.0
-// @description  S/L MEXC Layout / TV-FX settings, and hide the notification banner
+// @description  S/L MEXC Layout / TradingView settings, and hide the notification banner
 // @author       Jasonjam
+// @homepageURL  https://github.com/Jasonjam/MEXC-Layout-Backup
 // @match        https://www.mexc.com/*
 // @grant        none
 // ==/UserScript==
