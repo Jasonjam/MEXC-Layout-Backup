@@ -1,8 +1,11 @@
 // ==UserScript==
 // @name         MEXC Backup
 // @namespace    mexc-backup
-// @version      0.3.0
+// @version      0.3.1
 // @description  S/L MEXC "Layout & TradingView" settings, hide notification banner, draggable flash button
+// @homepageURL  https://github.com/Jasonjam/MEXC-Layout-Backup
+// @updateURL    https://raw.githubusercontent.com/Jasonjam/MEXC-Layout-Backup/main/mexc-layout-backup.user.js
+// @downloadURL  https://raw.githubusercontent.com/Jasonjam/MEXC-Layout-Backup/main/mexc-layout-backup.user.js
 // @match        https://www.mexc.com/*
 // @grant        none
 // ==/UserScript==
