@@ -1,6 +1,6 @@
 # MEXC Layout Backup
 
-MEXC 合約交易頁面 Layout / TradingView指標 的備份與還原 Tampermonkey 腳本。
+MEXC 合約交易頁面 "Layout & TradingView 圖表設定與指標" 的備份與還原 Tampermonkey 腳本。
 
 ## 安裝
 
@@ -12,6 +12,8 @@ MEXC 合約交易頁面 Layout / TradingView指標 的備份與還原 Tampermonk
 - 可選擇備份 `Layout` / `TV-FX`
 - Restore 依 備份.json 內容自動決定還原項目
 - 隱藏合約頁面上方的通知廣播
+- 拖曳 K 線區的閃電按鈕（基礎版 / TradingView）
+- 自動儲存閃電按鈕位置，並可使用 `Reset Flash Btn` 重設
 
 ## 備份內容
 
